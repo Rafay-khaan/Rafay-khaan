@@ -36,7 +36,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Rafay-khaan/Rafay-khaan/output/snake.svg"  />
+<img src="https://raw.githubusercontent.com/Rafay-khaan/Rafay-khaan/snake.svg"  />
 <img src="https://raw.githubusercontent.com/Rafay-khaan/Rafay-khaan/github-contribution-grid-snake-dark.svg"  />
 
 ###

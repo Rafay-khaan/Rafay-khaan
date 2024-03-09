@@ -37,5 +37,6 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Rafay-khaan/Rafay-khaan/output/snake.svg"  />
+<img src="https://raw.githubusercontent.com/Rafay-khaan/Rafay-khaan/snake.svg"  />
 
 ###
